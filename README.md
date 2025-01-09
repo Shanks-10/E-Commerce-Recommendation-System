@@ -6,6 +6,7 @@ The challenge, therefore, is to develop a recommendation system that can accurat
 
 The scope of this project is centered on the development of a personalized product recommendation system for e-commerce platforms, aiming to enhance user experience and drive sales through tailored suggestions. The system will integrate collaborative filtering and contentbased filtering techniques, combining both to generate accurate, relevant recommendations. It will utilize user interaction data, such as browsing history, purchase behavior, and ratings, alongside product attributes like category, price, and descriptions, to build personalized recommendations. 
 
+
 # MODULES
 
 # PANDAS
@@ -66,6 +67,7 @@ evaluation metrics. Visualization plays a critical role in machine learning, as 
 patterns in the data and assess the model's performance through plots like ROC curves, confusion
 matrices, and feature importance charts.
 
+The results of this project are shown below:
 
 ![image](https://github.com/user-attachments/assets/1067efbc-8e04-498d-a831-75ce1e011411)
 
